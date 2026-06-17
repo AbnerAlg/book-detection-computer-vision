@@ -1,0 +1,4 @@
+﻿Imagen,Fecha,Libros reales,Libros detectados,Diferencia,Error absoluto,Falsos positivos,Falsos negativos,Precisión,Recall,F1 Score,FPS,Tiempo procesamiento,Resultado
+captura_1.jpg,2026-05-28 07:59:18,8,6,-2,2,0,2,100.0,75.0,85.71,9.29,0.1077,Detectó libros de menos
+captura_2.jpg,2026-05-28 08:01:09,6,6,0,0,0,0,100.0,100.0,100.0,9.15,0.1093,Correcto
+captura_3.jpg,2026-05-28 08:02:46,7,6,-1,1,0,1,100.0,85.71,92.31,8.04,0.1243,Detectó libros de menos

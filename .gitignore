@@ -1,0 +1,14 @@
+# Ignorar modelos de IA pesados (ej. YOLO, OpenCV DNN weights)
+*.pt
+*.onnx
+*.weights
+*.h5
+
+# Ignorar datasets masivos de imágenes
+dataset/train/
+dataset/val/
+*.zip
+
+# Archivos del sistema
+__pycache__/
+.ipynb_checkpoints/
