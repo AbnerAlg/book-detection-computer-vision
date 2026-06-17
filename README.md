@@ -16,9 +16,9 @@ Este sistema automatiza el proceso de inventariado en bibliotecas mediante el pr
 
 * **Lenguaje:** Python 3.x
 
-* **Librerías Principales:** OpenCV, [Menciona aquí si usaste YOLOv8, NumPy, Matplotlib, etc.]
+* **Librerías Principales:** OpenCV, YOLOv8
 
-* **Entorno:** Desarrollado y probado nativamente en Linux.
+* **Entorno:** Desarrollado y probado nativamente en Windows.
 
 
 
